@@ -1,6 +1,7 @@
 # 製作物
 
 ## 映画館の予約システム(チーム開発)
+<img width="200" alt="クレジットカード登録" src="URL">
 Github：[URL](https://github.com/labotinc/codegym-team6/tree/develop)
 
 ## 静的サイトの模写(HTML&CSS)
