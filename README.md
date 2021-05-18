@@ -18,6 +18,11 @@ Github：[URL](https://github.com/hayato-nima/quelcode-html/tree/feature/html-ch
 Github：[URL](https://github.com/hayato-nima/quelcode-php/tree/feature/php-challenge)
 
 ## オークションサイトの機能追加(CakePHP&JavaScript)
+
+<img height="250" alt="オークション1" src="https://user-images.githubusercontent.com/71806630/118726113-d0dba880-b86b-11eb-8804-c553aed2f5ed.png">  <img height="250" alt="オークション2" src="https://user-images.githubusercontent.com/71806630/118726771-c077fd80-b86c-11eb-8477-31db7ebf823a.png">
+
+
+
 Github：[URL](https://github.com/hayato-nima/quelcode-cakephp/tree/feature/js-challenge2)
 
 ## 天気予報API(JavaScript)
