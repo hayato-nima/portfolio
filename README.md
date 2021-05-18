@@ -19,5 +19,6 @@ Github：[URL](https://github.com/hayato-nima/quelcode-php/tree/feature/php-chal
 Github：[URL](https://github.com/hayato-nima/quelcode-cakephp/tree/feature/js-challenge2)
 
 ## 天気予報API(JavaScript)
+リンク：[URL](https://hayato-nima.github.io/quelcode-js/js-weather/weather.html)<br>
 Github：[URL](https://github.com/hayato-nima/quelcode-js/tree/feature/js-challenge1)
 
