@@ -13,12 +13,15 @@ Github：[URL](https://github.com/hayato-nima/quelcode-html/tree/feature/html-ch
 
 
 ## 掲示板サイトの機能追加(PHP)
+掲示板サイトにリツイート機能といいね機能を追加<br>
+<img height="250" alt="掲示板" src="https://user-images.githubusercontent.com/71806630/118713991-72a7c900-b85d-11eb-87a4-35bba5090b80.png"><br>
 Github：[URL](https://github.com/hayato-nima/quelcode-php/tree/feature/php-challenge)
 
 ## オークションサイトの機能追加(CakePHP&JavaScript)
 Github：[URL](https://github.com/hayato-nima/quelcode-cakephp/tree/feature/js-challenge2)
 
 ## 天気予報API(JavaScript)
+天気APIからプルダウンで選択した地域の天気を取得<br>
 リンク：[URL](https://hayato-nima.github.io/quelcode-js/js-weather/weather.html)<br>
 Github：[URL](https://github.com/hayato-nima/quelcode-js/tree/feature/js-challenge1)
 
