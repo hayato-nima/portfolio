@@ -7,7 +7,10 @@
 Github：[URL](https://github.com/labotinc/codegym-team6/tree/develop)
 
 ## 静的サイトの模写(HTML&CSS)
+対象のサイト：[URL](https://www.nri.com/jp/company/whats/story06)<br>
+模写サイトへのリンク：[URL](https://hayato-nima.github.io/quelcode-html/nri/index.html)<br>
 Github：[URL](https://github.com/hayato-nima/quelcode-html/tree/feature/html-challenge1)
+
 
 ## 掲示板サイトの機能追加(PHP)
 Github：[URL](https://github.com/hayato-nima/quelcode-php/tree/feature/php-challenge)
