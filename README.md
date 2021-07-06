@@ -4,7 +4,8 @@
 ## 映画館の予約システム(チーム開発)
 <img height="250" alt="team-credit" src="https://user-images.githubusercontent.com/71806630/118693100-b68ed400-b845-11eb-9d2a-8e15ff838b84.png">   <img height="250" alt="team-schdules" src="https://user-images.githubusercontent.com/71806630/118697996-e1c7f200-b84a-11eb-927a-902e398fd103.png"> <img height="250" alt="team-ticket" src="https://user-images.githubusercontent.com/71806630/118699000-ffe22200-b84b-11eb-99df-b3a5055545d7.png">
 
-Github：[URL](https://github.com/labotinc/codegym-team6/tree/develop)
+Github：[URL](https://github.com/labotinc/codegym-team6/tree/develop)<br>
+サイトへのリンク：[URL](http://http://quelcinemas.com/main/top)
 
 ## 静的サイトの模写(HTML&CSS)
 対象のサイト：[URL](https://www.nri.com/jp/company/whats/story06)<br>
